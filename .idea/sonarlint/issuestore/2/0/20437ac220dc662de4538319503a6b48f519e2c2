@@ -1,0 +1,9 @@
+
+vtypescript:S6564"NRemove this redundant type alias and replace its occurrences with "anyObject".(ôÓÿ‘şÿÿÿÿ8ïÙçüğ1
+{typescript:S101"TRename interface "formItemType" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Èƒ½«şÿÿÿÿ8ğÙçüğ1
+Ytypescript:S6571%"1"top" is overridden by string in this union type.(Õ¡­üÿÿÿÿ8„ƒøüğ1
+Ztypescript:S6571%"2"left" is overridden by string in this union type.(Õ¡­üÿÿÿÿ8„ƒøüğ1
+[typescript:S6571%"3"right" is overridden by string in this union type.(Õ¡­üÿÿÿÿ8„ƒøüğ1
+Xtypescript:S6571&"5"default" is overridden by string in this union type.(ÁšÅ¡8„ƒøüğ1
+Vtypescript:S6571&"3"small" is overridden by string in this union type.(ÁšÅ¡8„ƒøüğ1
+Vtypescript:S6571&"3"large" is overridden by string in this union type.(ÁšÅ¡8„ƒøüğ1

@@ -1,0 +1,42 @@
+{
+  "name": "low-form",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "types": "./dist/types/src/release/index.d.ts",
+  "main": "./dist/low-form.mjs",
+  "scripts": {
+    "preview": "vite preview",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "@originjs/vite-plugin-commonjs": "^1.0.3",
+    "axios": "^1.6.8",
+    "codemirror": "^5",
+    "codemirror-editor-vue3": "^2.5.8",
+    "element-plus": "^2.7.1",
+    "json-editor-vue3": "^1.1.1",
+    "lodash": "^4.17.21",
+    "sass": "^1.75.0",
+    "vue": "^3.4.24",
+    "vue-router": "^4.3.2",
+    "vuedraggable-es": "^4.1.1"
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/lodash": "^4.17.0",
+    "@types/node": "^20.12.7",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue-jsx": "^3.1.0",
+    "@vue/tsconfig": "^0.5.1",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.10",
+    "vite-plugin-dts": "^3.9.0",
+    "vite-plugin-libcss": "^1.1.1",
+    "vue-tsc": "^2.0.14"
+  }
+}

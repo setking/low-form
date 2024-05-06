@@ -1,0 +1,6 @@
+
+Otypescript:S6594"'Use the "RegExp.exec()" method instead.(©–çÌøÿÿÿÿ8Ô¹¡Ïñ1
+Itypescript:S6535"!Unnecessary escape character: \/.(©–çÌøÿÿÿÿ8Ô¹¡Ïñ1
+ƒtypescript:S6582"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Ëÿ»ùÿÿÿÿ8Ô¹¡Ïñ1
+’typescript:S6606"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(ÿˆ“Îúÿÿÿÿ8Ô¹¡Ïñ1
+typescript:S6606"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(õ™«è8Ô¹¡Ïñ1

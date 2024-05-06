@@ -1,0 +1,5 @@
+export {default as FormDesign} from './FormDesign/index.vue'
+export {default as FormItem} from './FormItem.vue'
+export {default as FormRender} from './FormRender.vue'
+export {default as SchemaForm} from './schemaForm.vue'
+export {default as CodeMirror} from './CodeMirror.vue'
